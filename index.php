@@ -45,6 +45,7 @@
 </head>
 <body>
  <h1>Register here!</h1>
+ <h2>EVO RPOMJENA NEKIH</h2>
  <p>Fill in your name and email address, then click <strong>Submit</strong> to
 register.</p>
  <form method="post" action="index.php" enctype="multipart/form-data">
